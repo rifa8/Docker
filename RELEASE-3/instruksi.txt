@@ -1,0 +1,4 @@
+Instruksi!
+- Screenshot setiap perintah/soal!
+- Setiap screenshot wajib diberi nomor!
+- Jika tidak diberi nomor sesuai soal maka mentor tidak menilai!
